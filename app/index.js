@@ -21,7 +21,7 @@ var ZurbInkGenerator = yeoman.generators.Base.extend({
     var done = this.async();
 
     // Have Yeoman greet the user.
-    this.log(yosay('Welcome to the marvelous ZurbInk generator!'));
+    this.log(yosay('Welcome to the marvelous Zurb Ink generator!'));
 
     var prompts = [{
       type: 'list',
