@@ -1,4 +1,4 @@
-# Zurb Ink Generator [![Build Status](https://secure.travis-ci.org/alexluke/generator-zurb-ink.png?branch=master)](https://travis-ci.org/alexluke/generator-zurb-ink)
+# Zurb Ink Generator [![Build Status](https://secure.travis-ci.org/BNJ/generator-zurb-ink.png?branch=master)](https://travis-ci.org/BNJ/generator-zurb-ink)
 
 > [Yeoman](http://yeoman.io) generator
 

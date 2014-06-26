@@ -4,7 +4,7 @@
   "description": "Yeoman generator for building emails based on Zurb Ink templates",
   "license": "MIT",
   "main": "app/index.js",
-  "repository": "alexluke/generator-zurb-ink",
+  "repository": "BNJ/generator-zurb-ink",
   "author": {
     "name": "Alex Luke",
     "email": "alex@alexluke.me",
