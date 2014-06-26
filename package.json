@@ -1,0 +1,39 @@
+{
+  "name": "generator-zurb-ink",
+  "version": "0.1.0",
+  "description": "Yeoman generator for building emails based on Zurb Ink templates",
+  "license": "MIT",
+  "main": "app/index.js",
+  "repository": "alexluke/generator-zurb-ink",
+  "author": {
+    "name": "Alex Luke",
+    "email": "alex@alexluke.me",
+    "url": "https://github.com/alexluke"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "zurb",
+    "ink",
+    "email"
+  ],
+  "dependencies": {
+    "yeoman-generator": "~0.16.0",
+    "chalk": "~0.4.0",
+    "yosay": "^0.1.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.0"
+  }
+}

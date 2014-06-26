@@ -1,0 +1,10 @@
+{
+  "name": "<%= _.slugify(appname) %>",
+  "version": "0.0.0",
+  "devDependencies": {
+    "gulp": "^3.8.2",
+    "gulp-inline-css": "^0.2.7",
+    "gulp-inline-source": "0.0.2"
+  }
+}
+
