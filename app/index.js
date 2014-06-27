@@ -65,6 +65,7 @@ var ZurbInkGenerator = yeoman.generators.Base.extend({
 
   app: function () {
     this.mkdir('styles');
+    this.mkdir('images');
     this.copy('ink/' + this.inkTemplate + '/index.html', 'index.html');
     this.copy('ink/' + this.inkTemplate + '/styles.css', 'styles/styles.css');
   },
