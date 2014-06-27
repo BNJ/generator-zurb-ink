@@ -9,7 +9,3 @@ This is a Yeoman generator for building emails based on [Zurb Ink](http://zurb.c
 * Install: `npm install -g generator-zurb-ink`
 * Run `yo zurb-ink`
 * Run `gulp build` to inline styles
-
-## License
-
-[MIT](http://opensource.org/licenses/MIT)
