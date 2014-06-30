@@ -8,4 +8,5 @@ This is a Yeoman generator for building emails based on [Zurb Ink](http://zurb.c
 
 * Install: `npm install -g generator-zurb-ink`
 * Run `yo zurb-ink`
-* Run `gulp build` to inline styles
+* Run `gulp` to start a local server on port 8080 with livereload enabled
+* Run `gulp build` to inline styles and minify images
