@@ -1,5 +1,5 @@
 {
-  "name": "ink-build",
+  "name": "<%= _.slugify(appname) %>",
   "private": true,
   "dependencies": {
     "ink": "~1.0.5"
